@@ -195,4 +195,3 @@ I'm open to collaborating on backend systems, cloud platforms, distributed archi
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer"/>
 </p>
-```
