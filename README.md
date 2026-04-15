@@ -1,18 +1,141 @@
-![logo](https://github.com/f178325/f178325/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Muhammad Ibrahim Butt</h1>
-<h3 align="center">Driven Full Stack Engineer, proudly representing Pakistan's tech prowess on the global stage.</h3>
+<h1 align="center">Muhammad Ibrahim Butt</h1>
+<h3 align="center">Senior Software Engineer | Backend, Cloud, Distributed Systems</h3>
 
-- 📫 How to reach me **m.ibrahim8325@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-ibrahim-butt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ibrahim-butt" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/muhammad-ibrahim-butt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-ibrahim-butt" height="30" width="40" /></a>
-<a href="https://fb.com/ibrahim.b07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibrahim.b07" height="30" width="40" /></a>
-<a href="https://instagram.com/ibrahim.butt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahim.butt_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/f178325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="f178325" height="30" width="40" /></a>
+<p align="center">
+  Faisalabad, Pakistan ·
+  <a href="mailto:m.ibrahim8325@gmail.com">m.ibrahim8325@gmail.com</a> ·
+  <a href="https://linkedin.com/in/muhammad-ibrahim-butt">LinkedIn</a> ·
+  <a href="https://stackoverflow.com/users/muhammad-ibrahim-butt">Stack Overflow</a> ·
+  <a href="https://www.leetcode.com/f178325">LeetCode</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
+## About Me
+
+I’m a Senior Software Engineer with 5+ years of experience building scalable backend systems, cloud-native applications, and distributed platforms. My work spans Python, Node.js, Laravel, C#, AWS, microservices, and AI-enabled systems.
+
+I focus on designing reliable systems, improving performance, automating engineering workflows, and delivering production-grade software that solves real business problems.
+
+---
+
+## What I’m Working On
+
+- Building scalable backend and cloud solutions
+- Designing microservices and distributed systems
+- Automating workflows and deployment pipelines
+- Exploring AI systems, evaluation frameworks, and agentic workflows
+
+---
+
+## Core Expertise
+
+### Backend & APIs
+- Python, Django, Flask
+- Node.js, Express.js
+- PHP, Laravel
+- C#, .NET, Entity Framework, Dapper
+- REST APIs, GraphQL, WebSockets
+
+### Cloud & DevOps
+- AWS (EC2, S3, Lambda, SageMaker)
+- Microsoft Azure
+- Docker, Kubernetes, OpenShift, Rancher
+- Jenkins, GitHub Actions, CI/CD
+- Terraform, Nginx, Linux
+- Prometheus, Grafana
+
+### Data & Infrastructure
+- PostgreSQL, MySQL, SQL Server, SQLite
+- MongoDB, Redis, Kafka
+- ETL Pipelines, Data Aggregation, Data Modeling
+- Vector Databases
+
+### Frontend
+- React, Next.js
+- Vue.js, Nuxt.js
+- JavaScript, TypeScript
+- Tailwind CSS, Bootstrap, Redux Toolkit, React Query
+
+### AI & Machine Learning
+- TensorFlow, PyTorch, Scikit-learn
+- Transformers, LangChain, AutoGen
+- RLHF, model evaluation, benchmarking, fine-tuning
+- Agentic AI workflows
+
+---
+
+## Career Highlights
+
+- Led AI training and evaluation workflows for a pod of 10 contributors, improving task completion rates by **40%** and reducing deployment time by **60%**
+- Improved API response times by up to **70%** through backend optimization and better service design
+- Reduced server costs by **30%** by migrating legacy systems to cloud-native infrastructure
+- Cut API latency by **60%** using Redis caching and backend performance improvements
+- Built automation workflows that reduced manual engineering effort by up to **70%**
+- Delivered CI/CD and release automation improvements that reduced release time by **75%**
+
+---
+
+## Selected Work
+
+### Invoices Tax Calculator
+Desktop application built to automate tax calculations for 10,000+ invoices across custom date ranges, with support for U.S. state-specific tax rules and high-accuracy reporting.
+
+### Sentiment Analysis Tool
+Python-based NLP solution using NLTK and spaCy to classify customer sentiment across multiple feedback channels with strong preprocessing and training automation.
+
+### Predictive Maintenance System
+Machine learning system using Random Forest and XGBoost to analyze industrial machine data in real time, improving failure prediction and reducing downtime.
+
+### Saral Diagnostics
+Full-stack contributions to a diagnostics platform, including frontend enhancements and backend optimization to improve user experience and reduce reported issues.
+
+---
+
+## Professional Experience
+
+### Pod Lead (Contract) — Turing
+**Aug 2025 – Apr 2026**
+- Led a pod focused on agentic AI development, RLHF, evaluation, and multi-step reasoning
+- Built training protocols and benchmarking frameworks across 500+ test scenarios
+- Improved model quality, safety, and workflow efficiency for enterprise use cases
+
+### Senior Software Engineer (Contract) — Linx Computations Inc.
+**May 2024 – Present**
+- Built and maintained Laravel-based POS, inventory, stock, and ledger systems
+- Developed a C# desktop application integrated with QuickBooks
+- Automated invoice generation, synchronization, and reporting workflows
+
+### Senior Software Engineer — DevXen
+**May 2024 – Jul 2025**
+- Improved backend performance, SQL efficiency, and system reliability
+- Designed scalable microservices and CI/CD pipelines
+- Built reporting systems that reduced long-running processes from hours to minutes
+
+### Senior Software Engineer / Software Engineer — Microbeck
+**Aug 2021 – Apr 2024**
+- Migrated legacy services to AWS, Docker, and Kubernetes
+- Improved uptime, reduced infrastructure costs, and accelerated deployments
+- Built dashboards, automated recurring processes, and optimized backend performance
+
+---
+
+## Let’s Connect
+
+I’m always interested in backend engineering, cloud architecture, distributed systems, and AI-enabled product development.
+
+- Email: **m.ibrahim8325@gmail.com**
+- LinkedIn: **[muhammad-ibrahim-butt](https://linkedin.com/in/muhammad-ibrahim-butt)**
+- Stack Overflow: **[muhammad-ibrahim-butt](https://stackoverflow.com/users/muhammad-ibrahim-butt)**
+- LeetCode: **[f178325](https://www.leetcode.com/f178325)**
+
+---
+
+## GitHub Focus
+
+On this profile, you’ll find work related to:
+- Backend engineering
+- Cloud infrastructure
+- Automation and DevOps
+- Distributed systems
+- AI and machine learning experiments
