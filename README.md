@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Welcome&height=100&section=header&fontSize=70&fontAlign=50" />
 </p>
